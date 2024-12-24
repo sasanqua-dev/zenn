@@ -3,7 +3,7 @@ title: 'Conoha × Cloudflareでお手軽デプロイ'
 emoji: '☁️'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: ['Conoha', 'cloudflare']
-published: false
+published: true
 ---
 
 ## Conoha 使ってますか？
